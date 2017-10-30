@@ -2,7 +2,7 @@
 
 A mastodon bot to post procedurally-generated text at regular intervals.
 
-The bot is written in Python 3 and uses [Tracery](https://pypi.python.org/pypi/tracery), [Mastodon.py](https://github.com/halcy/Mastodon.py), and [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/).  It's adapted from https://github.com/sipb/mastodon-bot-autoresponder .
+The bot is written in Python 3 and uses [Tracery](https://pypi.python.org/pypi/tracery) and [Mastodon.py](https://github.com/halcy/Mastodon.py).  It's adapted from https://github.com/sipb/mastodon-bot-autoresponder .
 
 The bot will periodically post toots generated using a provided Tracery grammar.  It will also post in response to requests from others.
 

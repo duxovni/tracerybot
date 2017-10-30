@@ -9,13 +9,9 @@ import sys
 import time
 import urllib.request
 
-from bs4 import BeautifulSoup
-import magic
 from mastodon import Mastodon
 import tracery
 from tracery.modifiers import base_english
-
-mime = magic.Magic(mime=True)
 
 logging.basicConfig(level=logging.INFO)
 
