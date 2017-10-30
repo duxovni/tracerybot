@@ -7,7 +7,7 @@ def input_from(prompt, choices):
     return choice
 
 def register_app():
-    app_name = input('App name [autoresponder]: ') or 'autoresponder'
+    app_name = input('App name [tracerybot]: ') or 'tracerybot'
     base_url = (input('Instance base URL [https://mastodon.social]: ')
         or 'https://mastodon.social')
 
