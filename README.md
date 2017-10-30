@@ -52,9 +52,7 @@ source env/bin/activate
 
 # 3. install the dependencies
 pip install Mastodon.py==1.1.1
-pip install beautifulsoup4==4.6.0
 pip install tracery==0.1.1
-pip install python-magic==0.4.13
 
 # 4. use tokentool to register the bot as an app on your server,
 # then authenticate to it (don't worry, it's not hard, there's a nice
