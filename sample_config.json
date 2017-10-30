@@ -6,11 +6,6 @@
 
     "post_interval": 30,
 
-    "required_tags": ["rating:s"],
-    "forbidden_tags": ["comic", "animated", "sexual_harassment", "nazi"],
-
-    "message": "I'm just a bot, but I'll forward your message in a DM to my human maintainer:",
-    "maintainer": "dukhovni@mastodon.mit.edu",
-
     "state_file": "/home/mastodon/imagebot/state"
+    "grammar_file": "/home/mastodon/tracerybot/grammar.json"
 }
