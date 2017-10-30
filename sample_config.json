@@ -6,6 +6,6 @@
 
     "post_interval": 30,
 
-    "state_file": "/home/mastodon/tracerybot/state"
+    "state_file": "/home/mastodon/tracerybot/state",
     "grammar_file": "/home/mastodon/tracerybot/grammar.json"
 }
